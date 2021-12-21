@@ -52,3 +52,6 @@ hystrix:
         isolation:
           thread:
             timeoutInMilliseconds: 6000   #配置具体方法的超时时间
+
+
+111111111
